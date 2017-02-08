@@ -22,17 +22,9 @@ function Chat(_nombre, _imagen)
 }
 
 var dataListaChats = [
-	new Chat("chat 1", 'image/logocodeacademy.png'),
-	new Chat("chat 2", 'image/logocodeacademy.png'),
-	new Chat("chat 2", 'image/logocodeacademy.png'),
-	new Chat("chat 2", 'image/logocodeacademy.png'),
-	new Chat("chat 2", 'image/logocodeacademy.png'),
-	new Chat("chat 2", 'image/logocodeacademy.png'),
-	new Chat("chat 2", 'image/logocodeacademy.png'),
-	new Chat("chat 2", 'image/logocodeacademy.png'),
-	new Chat("chat 2", 'image/logocodeacademy.png'),
-	new Chat("chat 2", 'image/logocodeacademy.png'),
-	new Chat("chat 3", 'image/logocodeacademy.png')
+	new Chat("paola", 'image/mila.jpg'),
+	new Chat("milagros", 'image/paola.jpg'),
+	new Chat("chat 3", 'image/ani.jpg')
 ];
 
 
